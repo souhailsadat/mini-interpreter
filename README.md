@@ -31,3 +31,11 @@ Erreur : Expression erronée
 Erreur : parenthèse fermante manquante
 > end
 Fin du programme
+```
+
+## Diagram Class
+
+This project follows **object-oriented programming** principles, as demonstrated by the class diagram below:
+
+![diagramme](https://github.com/user-attachments/assets/fbf3f2af-f9bb-4181-8368-e77b8a353b6a)
+
